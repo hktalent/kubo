@@ -16,8 +16,8 @@ require (
 	github.com/fsnotify/fsnotify v1.6.0
 	github.com/gabriel-vasile/mimetype v1.4.1
 	github.com/hashicorp/go-multierror v1.1.1
-	github.com/ipfs/go-bitswap v0.10.2
-	github.com/ipfs/go-block-format v0.0.3
+	github.com/ipfs/go-bitswap v0.12.0
+	github.com/ipfs/go-block-format v0.1.1
 	github.com/ipfs/go-blockservice v0.4.0
 	github.com/ipfs/go-cid v0.3.2
 	github.com/ipfs/go-cidutil v0.1.0
@@ -43,7 +43,7 @@ require (
 	github.com/ipfs/go-ipfs-posinfo v0.0.1
 	github.com/ipfs/go-ipfs-provider v0.7.1
 	github.com/ipfs/go-ipfs-redirects-file v0.1.1
-	github.com/ipfs/go-ipfs-routing v0.2.1
+	github.com/ipfs/go-ipfs-routing v0.3.0
 	github.com/ipfs/go-ipfs-util v0.0.2
 	github.com/ipfs/go-ipld-format v0.4.0
 	github.com/ipfs/go-ipld-git v0.1.1
@@ -84,7 +84,7 @@ require (
 	github.com/libp2p/go-socket-activation v0.1.0
 	github.com/miekg/dns v1.1.50
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/multiformats/go-multiaddr v0.7.0
+	github.com/multiformats/go-multiaddr v0.8.0
 	github.com/multiformats/go-multiaddr-dns v0.3.1
 	github.com/multiformats/go-multibase v0.1.1
 	github.com/multiformats/go-multicodec v0.7.0
@@ -93,7 +93,7 @@ require (
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.14.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	github.com/syndtr/goleveldb v1.0.0
 	github.com/whyrusleeping/go-sysinfo v0.0.0-20190219211824-4a357d4b90b1
 	github.com/whyrusleeping/multiaddr-filter v0.0.0-20160516205228-e903e4adabd7
@@ -162,7 +162,8 @@ require (
 	github.com/ipfs/go-ipfs-ds-help v1.1.0 // indirect
 	github.com/ipfs/go-ipfs-pq v0.0.2 // indirect
 	github.com/ipfs/go-ipld-cbor v0.0.5 // indirect
-	github.com/ipfs/go-peertaskqueue v0.7.1 // indirect
+	github.com/ipfs/go-libipfs v0.4.0 // indirect
+	github.com/ipfs/go-peertaskqueue v0.8.0 // indirect
 	github.com/ipld/edelweiss v0.2.0 // indirect
 	github.com/jackpal/go-nat-pmp v1.0.2 // indirect
 	github.com/klauspost/compress v1.15.12 // indirect
